@@ -1,0 +1,10 @@
+{
+	"checkwords": {
+		"status": 1
+	},
+	"checkerrwords": {
+		"status": 0,
+		"words": ["张三", "第一"],
+		"text": "我们可以看到请求成功了asdasdsa"
+	}
+}
